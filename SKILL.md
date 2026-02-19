@@ -4,7 +4,8 @@ description: Apply systematic empathy to uncover innovation opportunities, impro
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3899
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - empathy-driven-innovation
 - transformation
